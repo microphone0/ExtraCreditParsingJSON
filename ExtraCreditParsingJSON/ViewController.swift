@@ -33,7 +33,7 @@ class ViewController: UIViewController {
                 }
                 
             } catch {
-                print("We got an error")
+                print("Uh oh :3")
             }
             
         }.resume()
